@@ -1,0 +1,18 @@
+export const CATEGORIES = [
+  { id: "electricity", name: "Electricity & Energy", icon: "⚡", color: "#F59E0B", gradient: "linear-gradient(135deg,#F59E0B,#EF4444)" },
+  { id: "machines", name: "Machines & Motors", icon: "⚙️", color: "#6366F1", gradient: "linear-gradient(135deg,#6366F1,#8B5CF6)" },
+  { id: "cooling", name: "Cooling & Heating", icon: "❄️", color: "#06B6D4", gradient: "linear-gradient(135deg,#06B6D4,#3B82F6)" },
+  { id: "communication", name: "Communication", icon: "📡", color: "#3B82F6", gradient: "linear-gradient(135deg,#3B82F6,#1D4ED8)" },
+  { id: "internet", name: "Internet & Web", icon: "🌐", color: "#10B981", gradient: "linear-gradient(135deg,#10B981,#059669)" },
+  { id: "computing", name: "Computers & Chips", icon: "💻", color: "#8B5CF6", gradient: "linear-gradient(135deg,#8B5CF6,#7C3AED)" },
+  { id: "memory", name: "Memory & Storage", icon: "💾", color: "#EC4899", gradient: "linear-gradient(135deg,#EC4899,#DB2777)" },
+  { id: "manufacturing", name: "Semiconductors", icon: "🔬", color: "#14B8A6", gradient: "linear-gradient(135deg,#14B8A6,#0D9488)" },
+  { id: "ai", name: "AI & ML", icon: "🤖", color: "#A855F7", gradient: "linear-gradient(135deg,#A855F7,#7C3AED)" },
+  { id: "imaging", name: "Cameras & Audio", icon: "📸", color: "#F97316", gradient: "linear-gradient(135deg,#F97316,#EA580C)" },
+  { id: "transport", name: "Transportation", icon: "✈️", color: "#0EA5E9", gradient: "linear-gradient(135deg,#0EA5E9,#0284C7)" },
+  { id: "energy", name: "Renewable Energy", icon: "☀️", color: "#84CC16", gradient: "linear-gradient(135deg,#84CC16,#65A30D)" },
+  { id: "connectivity", name: "Connectivity", icon: "📶", color: "#06B6D4", gradient: "linear-gradient(135deg,#06B6D4,#0891B2)" },
+  { id: "security", name: "Security & Crypto", icon: "🔒", color: "#EF4444", gradient: "linear-gradient(135deg,#EF4444,#DC2626)" },
+  { id: "space", name: "Space Tech", icon: "🚀", color: "#1E40AF", gradient: "linear-gradient(135deg,#1E40AF,#1E3A8A)" },
+  { id: "medical", name: "Medical Tech", icon: "🏥", color: "#F43F5E", gradient: "linear-gradient(135deg,#F43F5E,#E11D48)" },
+];
